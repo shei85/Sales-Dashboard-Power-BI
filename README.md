@@ -52,7 +52,6 @@ This report enables quick visualization of the KPIs relevant to the company. The
 ![image](https://github.com/user-attachments/assets/306edb48-9024-492f-9098-a17cc9eaa371)
 
 ## Demo
-[Click here to watch the demo video]
 
 https://github.com/user-attachments/assets/6828136d-4a46-4997-9902-8167d445001d
 
