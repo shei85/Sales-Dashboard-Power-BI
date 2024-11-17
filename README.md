@@ -50,3 +50,8 @@ This report enables quick visualization of the KPIs relevant to the company. The
 
 ## Dashboard Image
 ![image](https://github.com/user-attachments/assets/306edb48-9024-492f-9098-a17cc9eaa371)
+
+## Demo
+[Click here to watch the demo video](https://github.com/shei85/Sales-Dashboard-Power-BI/blob/main/Sales_Dashboard_Demo.mp4)
+
+
